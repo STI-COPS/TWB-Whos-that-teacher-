@@ -34,9 +34,12 @@
 - IDE: https://code.visualstudio.com/download
 - Live Server: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 - HTML Snippets: https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
+- Figma (For Designs): https://www.figma.com/downloads/
+- Node.js (optional): https://nodejs.org/en/download/
 
 -OR-
 - The Club Resources pack: https://drive.google.com/drive/folders/13YZU-47wSnNHtaZ13uZfaHe8KsZGekwD?usp=sharing
+`Includes Adobe Photoshop CC 2019`
 
 ------- Resources -------
 - Icons: https://fontawesome.com/

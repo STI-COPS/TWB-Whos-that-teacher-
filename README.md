@@ -9,7 +9,7 @@
 
 1. Contestants need to register first in order to attend or participate in the major event. Any students are allowed to enter the contest as long as they have registered on time.
 2. A group can have a maximum of four members, with a minimum of three groups.
-3. The participants will be given 2 days to register before the start of the main event which will be held at the computer laboratory.
+3. The participants will be given 2 days to register before the start of the main event which will be held at the library.
 4. On the first day of the event, the students will start interviewing the teacher of their choice. At the same time, they will be required to make their reference design before the day of coding.
 5. The interview shall consist of questions that will not go beyond the teacher's boundaries or private information. The officers will provide sample questions to use for gathering basic information. It is optional for the students to ask more questions of the teacher, as long as it is not too personal or private.
 6. The interviewing process will also include one of the members taking pictures or video of the procedure with the teacher’s consent first. Once the students have invaded the teacher’s privacy with both the questions and the pictures without their consent, they are quickly disqualified.

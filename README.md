@@ -37,6 +37,7 @@
 - CSS Snippets: https://marketplace.visualstudio.com/items?itemName=joy-yu.css-snippets
 - Figma (For Designs): https://www.figma.com/downloads/
 - Node.js (optional): https://nodejs.org/en/download/
+- Canva: https://www.canva.com/en_ph/
 
 -OR-
 - The Club Resources pack: https://drive.google.com/drive/folders/13YZU-47wSnNHtaZ13uZfaHe8KsZGekwD?usp=sharing

@@ -34,6 +34,7 @@
 - IDE: https://code.visualstudio.com/download
 - Live Server: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 - HTML Snippets: https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
+- CSS Snippets: https://marketplace.visualstudio.com/items?itemName=joy-yu.css-snippets
 - Figma (For Designs): https://www.figma.com/downloads/
 - Node.js (optional): https://nodejs.org/en/download/
 

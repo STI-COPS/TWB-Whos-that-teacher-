@@ -1,10 +1,12 @@
+<p align="center"><img src="https://user-images.githubusercontent.com/114017269/193080628-5109566e-5aa8-49e6-9dfe-db0d2d69a4e6.png" width="200" height="200"></p>
+
 # Teacher's Bio-Web: Who's That Teacher?
 - This is the First Major Event of COPS that will have it's Website Hosted Using GitHub, All the necessary things needed will be provided here!
 - When and Where: September 30 to October 1 at STI San Pablo Campus
 - There will be 3 Or 4 Judges for this Contest
 
 ### Here are the mechanics for the contest:
-```
+
 1. Contestants need to register first in order to attend or participate in the major event. Any students are allowed to enter the contest as long as they have registered on time.
 2. A group can have a maximum of four members, with a minimum of three groups.
 3. The participants will be given 2 days to register before the start of the main event which will be held at the computer laboratory.
@@ -14,7 +16,7 @@
 7. On the second day, the coding will begin with a limited allotted time of 7 hours (8:00AM-4:00PM) at the computer laboratory. Grade 11 students will be given the chance to do the coding as well, under the guidance of Grade 12.
 8. The process of judging will be held for 2 days so that it can be evaluated and judged by our 4 guest speakers.
 9. The criteria of judging will be based on the following:
-
+```
  - 🖼️ The Design – 40%
   
  - 🧑‍ 💻 Functionality (Except for responsiveness) – 20%

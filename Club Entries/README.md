@@ -36,6 +36,11 @@ Tool Used (Not all tools are used):
     StackOverflow: https://Stackoverflow.com/
     w3schools: https://www.w3schools.com/
 
-You have Reached the end! Thank you for taking the time to read this. May the best team wins
 
-    COPS Team
+    You have Reached the end! Thank you for taking the time to read this. May the best team wins
+- COPS Team 
+
+```
+For Removal of Content please contact us through the following:
+Email: sti.compclub@gmail.com
+Facebook: https://facebook.com/STI.COPS/

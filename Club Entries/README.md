@@ -35,8 +35,22 @@ Tool Used (Not all tools are used):
     Youtube: https://youtube.com
     StackOverflow: https://Stackoverflow.com/
     w3schools: https://www.w3schools.com/
+    
+---------------------
 
+ - 🖼️ The Design – 40%
+  
+ - 🧑‍ 💻 Functionality (Except for responsiveness) – 20%
+ 
+ - 💯 Accuracy of the Contents. – 20%
 
+ - 📔 Organization of the code – 10%
+
+ - 🤖 Originality – 10%           
+
+  Total                  100%
+  
+  
     You have Reached the end! Thank you for taking the time to read this. May the best team wins
 - COPS Team 
 

@@ -1,6 +1,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/114017269/193080628-5109566e-5aa8-49e6-9dfe-db0d2d69a4e6.png" width="200" height="200"></p>
 
-<p align="center">Teacher's Bio-Web: Who's That Teacher?</p>
+<p align="center" font-size:30px>Teacher's Bio-Web: Who's That Teacher?</p>
 - This is the First Major Event of COPS that will have it's Website Hosted Using GitHub, All the necessary things needed will be provided here!
 - When and Where: September 30 to October 1 at STI San Pablo Campus
 - There will be 3 Or 4 Judges for this Contest

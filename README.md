@@ -5,8 +5,8 @@
 - When and Where: September 30 to October 1 at STI San Pablo Campus
 - There will be 3 Or 4 Judges for this Contest
 
-### Here are the mechanics for the contest:
-
+# To get Started 
+> Mechanics
 1. Contestants need to register first in order to attend or participate in the major event. Any students are allowed to enter the contest as long as they have registered on time.
 2. A group can have a maximum of four members, with a minimum of three groups.
 3. The participants will be given 2 days to register before the start of the main event which will be held at the library.
@@ -15,7 +15,8 @@
 6. The interviewing process will also include one of the members taking pictures or video of the procedure with the teacher’s consent first. Once the students have invaded the teacher’s privacy with both the questions and the pictures without their consent, they are quickly disqualified.
 7. On the second day, the coding will begin with a limited allotted time of 7 hours (8:00AM-4:00PM) at the computer laboratory. Grade 11 students will be given the chance to do the coding as well, under the guidance of Grade 12.
 8. The process of judging will be held for 2 days so that it can be evaluated and judged by our 4 guest speakers.
-9. The criteria of judging will be based on the following:
+
+> Criteria for judging
 ```
  - 🖼️ The Design – 40%
   
@@ -27,30 +28,31 @@
 
  - 🤖 Originality – 10%           
 
-  Total                  100%
+   Total: 100%
 ```
-### To Get Started you'll need the following:
-------- Tools -------
+# Tools to Use: 
+
+> Coding
 - IDE: https://code.visualstudio.com/download
 - Live Server: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 - HTML Snippets: https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
 - CSS Snippets: https://marketplace.visualstudio.com/items?itemName=joy-yu.css-snippets
-- Figma (For Designs): https://www.figma.com/downloads/
 - Node.js (optional): https://nodejs.org/en/download/
+> Design (for reference only)
 - Canva: https://www.canva.com/en_ph/
-
--OR-
+- Figma (For Designs): https://www.figma.com/downloads/
+- Adobe Photoshop CC 2019: https://drive.google.com/drive/folders/13YZU-47wSnNHtaZ13uZfaHe8KsZGekwD?usp=sharing
+> Aditional Files
 - The Club Resources pack: https://drive.google.com/drive/folders/13YZU-47wSnNHtaZ13uZfaHe8KsZGekwD?usp=sharing
-`Includes Adobe Photoshop CC 2019`
 
-------- Resources -------
+> Resources
 - Icons: https://fontawesome.com/
 - Fonts: https://fonts.google.com
 - AOS (Animate on Scroll Library): https://github.com/michalsnik/aos  (Optional)
 - Color Hex Codes: https://color-hex.com/ 
 - Club Icon: https://drive.google.com/drive/folders/1VLLzT6xRJuro-Fbfcy91GOeKvoDgtbnx?usp=sharing
 
-------- Guides -------
+> Guides
 - Youtube: https://youtube.com
 - StackOverflow: https://Stackoverflow.com/
 - w3schools: https://www.w3schools.com/
@@ -58,7 +60,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 You have Reached the end! Thank you for taking the time to read this. May the best team wins
-- COPS Team 
+> Cops Team
 
 ```
 For Removal of Content please contact us through the following:
